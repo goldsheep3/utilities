@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Lyra Maimai 数据捕获
-// @namespace    http://tampermonkey.net/
-// @version      1.1.0
+// @description  用于捕获「电棍」版本的舞萌数据
+// @version      1.1.1
 // @author       GoldSheep3 with Gemini
 // @match        https://*/maimai/music
 // @match        https://*/maimai/music?*
+// @updateURL    https://github.com/goldsheep3/utilities/raw/refs/heads/master/lyra-maimai.user.js
+// @downloadURL  https://github.com/goldsheep3/utilities/raw/refs/heads/master/lyra-maimai.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
